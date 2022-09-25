@@ -6,3 +6,4 @@ have a go at coding games and found that interesting, but wanted to progress to 
 I did a few free online course's on 'Alison.com' to learn the basics in HTML, CSS. From there,
 I completed a Certificate in Information Technology Essentials(level 4).
 Looking forward to gaining and learning new skills in the IT field.
+Just adding a few changes to test if its working.(ignore this).
